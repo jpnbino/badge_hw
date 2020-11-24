@@ -190,25 +190,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BADGE\Design Rule Check - BADGE.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Assembly_Variant
-Value=Full
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
-Name=Currency
-Value=USD
+Name=Project
+Value=Fun Badge PIC12F
 
 [Parameter3]
 Name=EngineerName
-Value=Jpnbino
+Value=Bino
 
 [Parameter4]
-Name=Project
-Value=Fun Badge
+Name=Currency
+Value=USD
 
 [Parameter5]
-Name=VersionRevision
-Value=V1I1
+Name=Assembly_Variant
+Value=Full
 
 [Configuration1]
 Name=Default Configuration
@@ -332,7 +336,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPI4E2234 (HP LaserJet M15w)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1210,6 +1214,120 @@ UpdateCurrentModels=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=150060GS75000
+ComponentSymbolReference0=150060GS75000
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Any
+ComponentLibraryIdentifier1=
+ComponentDesignItemID1=150060RS75000
+ComponentSymbolReference1=150060RS75000
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Any
+ComponentLibraryIdentifier2=
+ComponentDesignItemID2=2N7002NXBKR
+ComponentSymbolReference2=2N7002NXBKR
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Any
+ComponentLibraryIdentifier3=
+ComponentDesignItemID3=NCP114ASN330T1G
+ComponentSymbolReference3=NCP114ASN330T1G
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Any
+ComponentLibraryIdentifier4=
+ComponentDesignItemID4=PIC12F1840-I_SN
+ComponentSymbolReference4=PIC12F1840-I_SN
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Any
+ComponentLibraryIdentifier5=
+ComponentDesignItemID5=PTS815_SJM_250_SMTR_LFS
+ComponentSymbolReference5=PTS815_SJM_250_SMTR_LFS
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=chico.SchLib
+ComponentDesignItemID6=MCP73831T-2ACI/O
+ComponentSymbolReference6=MCP73831T-2ACI/O
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=chico.SchLib
+ComponentDesignItemID7=USB4110-GF-A
+ComponentSymbolReference7=USB4110-GF-A
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=jpnbino.SchLib
+ComponentDesignItemID8=CAPC_10u_1206_25V
+ComponentSymbolReference8=CAPC_10u_1206_25V
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=jpnbino.SchLib
+ComponentDesignItemID9=CONN JST 2P 2MM
+ComponentSymbolReference9=CONN JST 2P 2MM
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=jpnbino.SchLib
+ComponentDesignItemID10=CONN PROG PICKIT3
+ComponentSymbolReference10=CONN PROG PICKIT3
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=jpnbino.SchLib
+ComponentDesignItemID11=PCB
+ComponentSymbolReference11=PCB
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=jpnbino.SchLib
+ComponentDesignItemID12=RES 5.1K OHM 5% 1/10W 0603
+ComponentSymbolReference12=RES 5.1K OHM 5% 1/10W 0603
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=PBL - Capacitors.SCHLIB
+ComponentDesignItemID13=CAPC_100n_0603_X7R_50V_10%
+ComponentSymbolReference13=CAPC_100n_0603_X7R_50V_10%
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=PBL - Resistors.SCHLIB
+ComponentDesignItemID14=RES_10K_0603_5%
+ComponentSymbolReference14=RES_10K_0603_5%
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=PBL - Resistors.SCHLIB
+ComponentDesignItemID15=RES_1K_0603_5%
+ComponentSymbolReference15=RES_1K_0603_5%
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=RRutledge.IntLib
+ComponentDesignItemID16=RES_1K_0603_5%
+ComponentSymbolReference16=RES_1K_0603_5%
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=RRutledge.IntLib
+ComponentDesignItemID17=RES_1M_0603_5%
+ComponentSymbolReference17=RES_1M_0603_5%
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=SamacSys.SchLib
+ComponentDesignItemID18=S1W0-2835408003-0000003S-00005
+ComponentSymbolReference18=S1W0-2835408003-0000003S-00005
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
