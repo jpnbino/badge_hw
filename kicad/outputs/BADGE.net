@@ -1,0 +1,4876 @@
+(export
+	(version "E")
+	(design
+		(source "/Users/bino/projects/github/copilot-worktrees/badge_hw/jpnbino-friendly-system/kicad/BADGE.kicad_sch")
+		(date "2026-11-04T20:33:53")
+		(tool "Eeschema 10.0.7")
+		(textvar
+			(name "Assembly_Variant") "Full")
+		(textvar
+			(name "Currency") "USD")
+		(textvar
+			(name "EngineerName") "Bino")
+		(textvar
+			(name "Project") "Fun Badge PIC12F")
+		(textvar
+			(name "VersionRevision") "V1I1")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title "BADGE")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "BADGE.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "2")
+			(name "/COVER PAGE/")
+			(tstamps "/70d2eba9-b1a2-5c63-bde7-7706a86338b4/")
+			(title_block
+				(title "COVER PAGE")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "COVER PAGE.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "3")
+			(name "/BLOCK DIAGRAM/")
+			(tstamps "/f03c5cc1-764f-57bc-8098-cbdbca8506f3/")
+			(title_block
+				(title "BLOCK DIAGRAM")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "BLOCK DIAGRAM.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "4")
+			(name "/CIRCUIT/")
+			(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			(title_block
+				(title "CIRCUIT")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "CIRCUIT.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "5")
+			(name "/MECHANICAL/")
+			(tstamps "/182b56ce-f134-57db-8631-54c0c948eee5/")
+			(title_block
+				(title "MECHANICAL")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "MECHANICAL.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "6")
+			(name "/REVISION HISTORY/")
+			(tstamps "/624c5922-fbec-5717-aa27-2e29ca1921cb/")
+			(title_block
+				(title "REVISION HISTORY")
+				(company "KDS")
+				(rev "V1I1")
+				(date)
+				(source "REVISION HISTORY.kicad_sch")
+				(comment
+					(number "1")
+					(value "Converted from Altium Designer")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C1")
+			(value "100n")
+			(footprint "BADGE:CAPC1608X90N")
+			(description "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
+			(fields
+				(field
+					(name "Altium_Model") "CAPC1608X90N")
+				(field
+					(name "Manufacturer 2") "TDK Corporation")
+				(field
+					(name "Manufacturer Part Number 2") "C1608X7R1H104K")
+				(field
+					(name "Package / Case") "0603 (1608 Metric)")
+				(field
+					(name "Tolerance") "±10%")
+				(field
+					(name "Ratings") "50V; X7R")
+				(field
+					(name "Material") "ceramic")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "478-5052-1-ND")
+				(field
+					(name "Manufacturer 1") "AVX Corporation")
+				(field
+					(name "Manufacturer Part Number 1") "06035C104KAT2A")
+				(field
+					(name "ComponentLink1URL") "http://www.avx.com/docs/Catalogs/cx7r.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.avx.com/docs/Catalogs/cx7r.pdf")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "445-1314-1-ND")
+				(field
+					(name "ComponentLink2URL") "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf")
+				(field
+					(name "ComponentLink2Description") "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Comment") "approved sub OK")
+				(field
+					(name "Footprint") "BADGE:CAPC1608X90N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "CAPC_100n_0603_X7R_50V_10%")
+				(description "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "CAPC1608X90N")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "TDK Corporation")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "C1608X7R1H104K")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 Metric)")
+			)
+			(property
+				(name "Tolerance")
+				(value "±10%")
+			)
+			(property
+				(name "Ratings")
+				(value "50V; X7R")
+			)
+			(property
+				(name "Material")
+				(value "ceramic")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "478-5052-1-ND")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "AVX Corporation")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "06035C104KAT2A")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.avx.com/docs/Catalogs/cx7r.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.avx.com/docs/Catalogs/cx7r.pdf")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "445-1314-1-ND")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Comment")
+				(value "approved sub OK")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "73393adf-94bb-5813-a2ad-843759b2ab67")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "10µ")
+			(footprint "BADGE:CAPC3216X180N")
+			(description "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
+			(fields
+				(field
+					(name "Altium_Model") "CAPC3216X180N")
+				(field
+					(name "Package / Case") "1206 (3216 metric)")
+				(field
+					(name "Tolerance") "±10%")
+				(field
+					(name "Ratings") "16V; X7R")
+				(field
+					(name "Material") "ceramic")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "1276-1804-1-ND")
+				(field
+					(name ".PCBCheck")
+				)
+				(field
+					(name ".SCHCheck")
+				)
+				(field
+					(name "Comment") "approved sub OK")
+				(field
+					(name "Footprint") "BADGE:CAPC3216X180N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "CAPC_10u_1206_25V")
+				(description "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
+			)
+			(property
+				(name "Altium_Model")
+				(value "CAPC3216X180N")
+			)
+			(property
+				(name "Package / Case")
+				(value "1206 (3216 metric)")
+			)
+			(property
+				(name "Tolerance")
+				(value "±10%")
+			)
+			(property
+				(name "Ratings")
+				(value "16V; X7R")
+			)
+			(property
+				(name "Material")
+				(value "ceramic")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "1276-1804-1-ND")
+			)
+			(property
+				(name ".PCBCheck")
+				(value "")
+			)
+			(property
+				(name ".SCHCheck")
+				(value "")
+			)
+			(property
+				(name "Comment")
+				(value "approved sub OK")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "b90c0b45-6b20-5236-8f1b-abc68afa8abc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "*")
+			(footprint "BADGE:GCT_USB4110-GF-A")
+			(description "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
+			(fields
+				(field
+					(name "Altium_Model") "GCT_USB4110-GF-A")
+				(field
+					(name "Digi-Key_Purchase_URL") "https://www.digikey.com/product-detail/en/gct/USB4110-GF-A/2073-USB4110-GF-A-1-ND/10384548?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol")
+				(field
+					(name "Package") "None")
+				(field
+					(name "MP") "USB4110-GF-A")
+				(field
+					(name "SnapEDA_Link") "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=snap")
+				(field
+					(name "MF") "GCT")
+				(field
+					(name "Digi-Key_Part_Number") "2073-USB4110-GF-A-1-ND")
+				(field
+					(name "Comment") "USB4110-GF-A")
+				(field
+					(name "Footprint") "BADGE:GCT_USB4110-GF-A")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "USB4110-GF-A")
+				(description "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
+			)
+			(property
+				(name "Altium_Model")
+				(value "GCT_USB4110-GF-A")
+			)
+			(property
+				(name "Digi-Key_Purchase_URL")
+				(value "https://www.digikey.com/product-detail/en/gct/USB4110-GF-A/2073-USB4110-GF-A-1-ND/10384548?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol")
+			)
+			(property
+				(name "Package")
+				(value "None")
+			)
+			(property
+				(name "MP")
+				(value "USB4110-GF-A")
+			)
+			(property
+				(name "SnapEDA_Link")
+				(value "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=snap")
+			)
+			(property
+				(name "MF")
+				(value "GCT")
+			)
+			(property
+				(name "Digi-Key_Part_Number")
+				(value "2073-USB4110-GF-A-1-ND")
+			)
+			(property
+				(name "Comment")
+				(value "USB4110-GF-A")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "9273109a-9363-5245-b10c-44be7347f628")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "A5")
+						)
+						(pin
+							(num "A6")
+						)
+						(pin
+							(num "A7")
+						)
+						(pin
+							(num "A8")
+						)
+						(pin
+							(num "A4/B9")
+						)
+						(pin
+							(num "B4/A9")
+						)
+						(pin
+							(num "B5")
+						)
+						(pin
+							(num "B6")
+						)
+						(pin
+							(num "B7")
+						)
+						(pin
+							(num "B8")
+						)
+						(pin
+							(num "A1/B12")
+						)
+						(pin
+							(num "B1/A12")
+						)
+						(pin
+							(num "S1")
+						)
+						(pin
+							(num "S2")
+						)
+						(pin
+							(num "S3")
+						)
+						(pin
+							(num "S4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "=device")
+			(footprint "BADGE:CONN_ICSP")
+			(description "CONN PROG PICKIT3 6VIAS")
+			(fields
+				(field
+					(name "Altium_Model") "CONN_ICSP")
+				(field
+					(name "pitch_in_mm") "2.54")
+				(field
+					(name "device") "pickit3")
+				(field
+					(name "Comment") "=device")
+				(field
+					(name "Footprint") "BADGE:CONN_ICSP")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CONN PROG PICKIT3 6VIAS")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "CONN PROG PICKIT3")
+				(description "CONN PROG PICKIT3 6VIAS")
+			)
+			(property
+				(name "Altium_Model")
+				(value "CONN_ICSP")
+			)
+			(property
+				(name "pitch_in_mm")
+				(value "2.54")
+			)
+			(property
+				(name "device")
+				(value "pickit3")
+			)
+			(property
+				(name "Comment")
+				(value "=device")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "292b2281-4ba5-5922-938c-feef0cea5215")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J3")
+			(value "S2B-PH-K-S(LF)(SN)")
+			(footprint "BADGE:JST-S2B-PH-K-S_V")
+			(description "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
+			(fields
+				(field
+					(name "Altium_Model") "JST-S2B-PH-K-S_V")
+				(field
+					(name "Case\\Package") "Radial")
+				(field
+					(name "Packaging") "Bulk")
+				(field
+					(name "ComponentLink1URL") "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
+				(field
+					(name "Radiation Hardening") "No")
+				(field
+					(name "Height") "11 mm")
+				(field
+					(name "Package Quantity") "200")
+				(field
+					(name "Tolerance") "20%")
+				(field
+					(name "PackageDescription") "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm")
+				(field
+					(name "PackageReference") "S2B-PH-K-S")
+				(field
+					(name "Diameter") "5 mm")
+				(field
+					(name "Pins") "2")
+				(field
+					(name "Mount") "Through Hole")
+				(field
+					(name "Max Operating Temperature") "85 degC")
+				(field
+					(name "Min Operating Temperature") "-40 degC")
+				(field
+					(name "ComponentLink1Description") "Datasheet")
+				(field
+					(name "DatasheetVersion") "Dec-12")
+				(field
+					(name "Capacitance") "10 uF")
+				(field
+					(name "Length") "11 mm")
+				(field
+					(name "Voltage Rating (DC)") "50 V")
+				(field
+					(name "Lead Pitch") "2 mm")
+				(field
+					(name "REACH SVHC") "No SVHC")
+				(field
+					(name "Voltage Rating") "50 V")
+				(field
+					(name "RoHSCompliant") "true")
+				(field
+					(name "Comment") "S2B-PH-K-S(LF)(SN)")
+				(field
+					(name "Footprint") "BADGE:JST-S2B-PH-K-S_V")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "CONN JST 2P 2MM_M")
+				(description "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
+			)
+			(property
+				(name "Altium_Model")
+				(value "JST-S2B-PH-K-S_V")
+			)
+			(property
+				(name "Case\\Package")
+				(value "Radial")
+			)
+			(property
+				(name "Packaging")
+				(value "Bulk")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
+			)
+			(property
+				(name "Radiation Hardening")
+				(value "No")
+			)
+			(property
+				(name "Height")
+				(value "11 mm")
+			)
+			(property
+				(name "Package Quantity")
+				(value "200")
+			)
+			(property
+				(name "Tolerance")
+				(value "20%")
+			)
+			(property
+				(name "PackageDescription")
+				(value "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm")
+			)
+			(property
+				(name "PackageReference")
+				(value "S2B-PH-K-S")
+			)
+			(property
+				(name "Diameter")
+				(value "5 mm")
+			)
+			(property
+				(name "Pins")
+				(value "2")
+			)
+			(property
+				(name "Mount")
+				(value "Through Hole")
+			)
+			(property
+				(name "Max Operating Temperature")
+				(value "85 degC")
+			)
+			(property
+				(name "Min Operating Temperature")
+				(value "-40 degC")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "Datasheet")
+			)
+			(property
+				(name "DatasheetVersion")
+				(value "Dec-12")
+			)
+			(property
+				(name "Capacitance")
+				(value "10 uF")
+			)
+			(property
+				(name "Length")
+				(value "11 mm")
+			)
+			(property
+				(name "Voltage Rating (DC)")
+				(value "50 V")
+			)
+			(property
+				(name "Lead Pitch")
+				(value "2 mm")
+			)
+			(property
+				(name "REACH SVHC")
+				(value "No SVHC")
+			)
+			(property
+				(name "Voltage Rating")
+				(value "50 V")
+			)
+			(property
+				(name "RoHSCompliant")
+				(value "true")
+			)
+			(property
+				(name "Comment")
+				(value "S2B-PH-K-S(LF)(SN)")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "5ab41ce4-93cc-561b-80b5-7ba4500ea5d2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED1")
+			(value "150060GS75000")
+			(footprint "BADGE:LEDC1608X80N")
+			(description "LED")
+			(fields
+				(field
+					(name "Altium_Model") "LEDC1608X80N")
+				(field
+					(name "Datasheet Link") "https://componentsearchengine.com/Datasheets/2/150060GS75000.pdf")
+				(field
+					(name "Height") "0.8mm")
+				(field
+					(name "Manufacturer_Name") "Wurth Elektronik")
+				(field
+					(name "Manufacturer_Part_Number") "150060GS75000")
+				(field
+					(name "Arrow Part Number")
+				)
+				(field
+					(name "Arrow Price/Stock")
+				)
+				(field
+					(name "Mouser Part Number") "710-150060GS75000")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060GS75000?qs=LlUlMxKIyB0UYkq5lDO8nA%3D%3D")
+				(field
+					(name "Comment") "150060GS75000")
+				(field
+					(name "Footprint") "BADGE:LEDC1608X80N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "150060GS75000")
+				(description "LED")
+			)
+			(property
+				(name "Altium_Model")
+				(value "LEDC1608X80N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "https://componentsearchengine.com/Datasheets/2/150060GS75000.pdf")
+			)
+			(property
+				(name "Height")
+				(value "0.8mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "150060GS75000")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "710-150060GS75000")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060GS75000?qs=LlUlMxKIyB0UYkq5lDO8nA%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "150060GS75000")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "0eec2264-7cfa-54ad-b4a3-0edff217716b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED2")
+			(value "150060RS75000")
+			(footprint "BADGE:LEDC1608X80N")
+			(description "LED")
+			(fields
+				(field
+					(name "Altium_Model") "LEDC1608X80N")
+				(field
+					(name "Datasheet Link") "http://katalog.we-online.de/led/datasheet/150060RS75000.pdf")
+				(field
+					(name "Height") "0.8mm")
+				(field
+					(name "Manufacturer_Name") "Wurth Elektronik")
+				(field
+					(name "Manufacturer_Part_Number") "150060RS75000")
+				(field
+					(name "Arrow Part Number")
+				)
+				(field
+					(name "Arrow Price/Stock")
+				)
+				(field
+					(name "Mouser Part Number") "710-150060RS75000")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060RS75000?qs=LlUlMxKIyB3QnmZ3fw%2FVCA%3D%3D")
+				(field
+					(name "Comment") "150060RS75000")
+				(field
+					(name "Footprint") "BADGE:LEDC1608X80N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "150060RS75000")
+				(description "LED")
+			)
+			(property
+				(name "Altium_Model")
+				(value "LEDC1608X80N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "http://katalog.we-online.de/led/datasheet/150060RS75000.pdf")
+			)
+			(property
+				(name "Height")
+				(value "0.8mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "150060RS75000")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "710-150060RS75000")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060RS75000?qs=LlUlMxKIyB3QnmZ3fw%2FVCA%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "150060RS75000")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "9e0d1bb0-915d-5062-8747-dfe36ee46c57")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED3")
+			(value "S1W0-2835408003-0000003S-00005")
+			(footprint "BADGE:STW8A12DMinJ18CAAll")
+			(description "LED")
+			(fields
+				(field
+					(name "Altium_Model") "STW8A12DMinJ18CAAll")
+				(field
+					(name "Datasheet Link") "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
+				(field
+					(name "Height") "0mm")
+				(field
+					(name "Manufacturer_Name") "SEOUL SEMICONDUCTOR")
+				(field
+					(name "Manufacturer_Part_Number") "S1W0-2835408003-0000003S-00005")
+				(field
+					(name "Arrow Part Number")
+				)
+				(field
+					(name "Arrow Price/Stock")
+				)
+				(field
+					(name "Mouser Part Number")
+				)
+				(field
+					(name "Mouser Price/Stock")
+				)
+				(field
+					(name "Comment") "S1W0-2835408003-0000003S-00005")
+				(field
+					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "S1W0-2835408003-0000003S-00005")
+				(description "LED")
+			)
+			(property
+				(name "Altium_Model")
+				(value "STW8A12DMinJ18CAAll")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
+			)
+			(property
+				(name "Height")
+				(value "0mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "SEOUL SEMICONDUCTOR")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "S1W0-2835408003-0000003S-00005")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Comment")
+				(value "S1W0-2835408003-0000003S-00005")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "86515bca-5c4c-5a24-b300-2376968f4289")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED4")
+			(value "S1W0-2835408003-0000003S-00005")
+			(footprint "BADGE:STW8A12DMinJ18CAAll")
+			(description "LED")
+			(fields
+				(field
+					(name "Altium_Model") "STW8A12DMinJ18CAAll")
+				(field
+					(name "Datasheet Link") "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
+				(field
+					(name "Height") "0mm")
+				(field
+					(name "Manufacturer_Name") "SEOUL SEMICONDUCTOR")
+				(field
+					(name "Manufacturer_Part_Number") "S1W0-2835408003-0000003S-00005")
+				(field
+					(name "Arrow Part Number")
+				)
+				(field
+					(name "Arrow Price/Stock")
+				)
+				(field
+					(name "Mouser Part Number")
+				)
+				(field
+					(name "Mouser Price/Stock")
+				)
+				(field
+					(name "Comment") "S1W0-2835408003-0000003S-00005")
+				(field
+					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "S1W0-2835408003-0000003S-00005")
+				(description "LED")
+			)
+			(property
+				(name "Altium_Model")
+				(value "STW8A12DMinJ18CAAll")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
+			)
+			(property
+				(name "Height")
+				(value "0mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "SEOUL SEMICONDUCTOR")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "S1W0-2835408003-0000003S-00005")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Comment")
+				(value "S1W0-2835408003-0000003S-00005")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "bdc1f878-5414-505e-bd88-5312dfdbab49")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PS1")
+			(value "NCP114ASN330T1G")
+			(footprint "BADGE:SOT95P275X110-5N")
+			(description "Power Supply")
+			(fields
+				(field
+					(name "Altium_Model") "SOT95P275X110-5N")
+				(field
+					(name "Datasheet Link") "https://componentsearchengine.com/Datasheets/2/NCP114ASN330T1G.pdf")
+				(field
+					(name "Height") "1.1mm")
+				(field
+					(name "Manufacturer_Name") "ON Semiconductor")
+				(field
+					(name "Manufacturer_Part_Number") "NCP114ASN330T1G")
+				(field
+					(name "Arrow Part Number") "NCP114ASN330T1G")
+				(field
+					(name "Arrow Price/Stock") "https://www.arrow.com/en/products/ncp114asn330t1g/on-semiconductor")
+				(field
+					(name "Mouser Part Number") "863-NCP114ASN330T1G")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NCP114ASN330T1G?qs=OycAS1CGnljPBnaqdh%252BGIA%3D%3D")
+				(field
+					(name "Comment") "NCP114ASN330T1G")
+				(field
+					(name "Footprint") "BADGE:SOT95P275X110-5N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Power Supply")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "NCP114ASN330T1G")
+				(description "Power Supply")
+			)
+			(property
+				(name "Altium_Model")
+				(value "SOT95P275X110-5N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "https://componentsearchengine.com/Datasheets/2/NCP114ASN330T1G.pdf")
+			)
+			(property
+				(name "Height")
+				(value "1.1mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "ON Semiconductor")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "NCP114ASN330T1G")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "NCP114ASN330T1G")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "https://www.arrow.com/en/products/ncp114asn330t1g/on-semiconductor")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "863-NCP114ASN330T1G")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NCP114ASN330T1G?qs=OycAS1CGnljPBnaqdh%252BGIA%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "NCP114ASN330T1G")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "0498886c-5b92-530a-88b2-6ea88f6cf264")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q1")
+			(value "2N7002NXBKR")
+			(footprint "BADGE:SOT95P230X110-3N")
+			(description "MOSFET (N-Channel)")
+			(fields
+				(field
+					(name "Altium_Model") "SOT95P230X110-3N")
+				(field
+					(name "Datasheet Link") "https://componentsearchengine.com/Datasheets/1/2N7002NXBKR.pdf")
+				(field
+					(name "Height") "1.1mm")
+				(field
+					(name "Manufacturer_Name") "Nexperia")
+				(field
+					(name "Manufacturer_Part_Number") "2N7002NXBKR")
+				(field
+					(name "Arrow Part Number") "2N7002NXBKR")
+				(field
+					(name "Arrow Price/Stock") "https://www.arrow.com/en/products/2n7002nxbkr/nexperia")
+				(field
+					(name "Mouser Part Number") "771-2N7002NXBKR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002NXBKR?qs=%252B6g0mu59x7J2ddJstTJGkQ%3D%3D")
+				(field
+					(name "Comment") "2N7002NXBKR")
+				(field
+					(name "Footprint") "BADGE:SOT95P230X110-3N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "MOSFET (N-Channel)")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "2N7002NXBKR")
+				(description "MOSFET (N-Channel)")
+			)
+			(property
+				(name "Altium_Model")
+				(value "SOT95P230X110-3N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "https://componentsearchengine.com/Datasheets/1/2N7002NXBKR.pdf")
+			)
+			(property
+				(name "Height")
+				(value "1.1mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Nexperia")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "https://www.arrow.com/en/products/2n7002nxbkr/nexperia")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "771-2N7002NXBKR")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002NXBKR?qs=%252B6g0mu59x7J2ddJstTJGkQ%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "38e8193a-ecca-543d-a333-2dcb824d3861")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q2")
+			(value "2N7002NXBKR")
+			(footprint "BADGE:SOT95P230X110-3N")
+			(description "MOSFET (N-Channel)")
+			(fields
+				(field
+					(name "Altium_Model") "SOT95P230X110-3N")
+				(field
+					(name "Datasheet Link") "https://componentsearchengine.com/Datasheets/1/2N7002NXBKR.pdf")
+				(field
+					(name "Height") "1.1mm")
+				(field
+					(name "Manufacturer_Name") "Nexperia")
+				(field
+					(name "Manufacturer_Part_Number") "2N7002NXBKR")
+				(field
+					(name "Arrow Part Number") "2N7002NXBKR")
+				(field
+					(name "Arrow Price/Stock") "https://www.arrow.com/en/products/2n7002nxbkr/nexperia")
+				(field
+					(name "Mouser Part Number") "771-2N7002NXBKR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002NXBKR?qs=%252B6g0mu59x7J2ddJstTJGkQ%3D%3D")
+				(field
+					(name "Comment") "2N7002NXBKR")
+				(field
+					(name "Footprint") "BADGE:SOT95P230X110-3N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "MOSFET (N-Channel)")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "2N7002NXBKR")
+				(description "MOSFET (N-Channel)")
+			)
+			(property
+				(name "Altium_Model")
+				(value "SOT95P230X110-3N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "https://componentsearchengine.com/Datasheets/1/2N7002NXBKR.pdf")
+			)
+			(property
+				(name "Height")
+				(value "1.1mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Nexperia")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "https://www.arrow.com/en/products/2n7002nxbkr/nexperia")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "771-2N7002NXBKR")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002NXBKR?qs=%252B6g0mu59x7J2ddJstTJGkQ%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "2N7002NXBKR")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "530a5b78-4c80-5919-88ac-7d8c299dc036")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-071KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-1.0KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-1.0KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW06031K00JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1K_0603_5%")
+				(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-071KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-1.0KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-1.0KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW06031K00JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "b9deb442-61e8-54e4-ab0c-d321c780e788")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-071KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-1.0KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-1.0KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW06031K00JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1K_0603_5%")
+				(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-071KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-1.0KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-1.0KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW06031K00JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "554cce02-b279-58bf-bc1d-d26555f700fb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "10K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-0710KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-10KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-10KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW060310K0JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20035")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20035")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_10K_0603_5%")
+				(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-0710KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-10KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-10KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW060310K0JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20035")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20035")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "c37765e8-fa14-59e8-b313-5fb7bc0766b9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "5.1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "2019-RK73B1JTTD512JCT-ND")
+				(field
+					(name "Comment") "RES 5.1K OHM 5% 1/10W 0603")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES 5.1K OHM 5% 1_10W 0603")
+				(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "2019-RK73B1JTTD512JCT-ND")
+			)
+			(property
+				(name "Comment")
+				(value "RES 5.1K OHM 5% 1/10W 0603")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "98e2083c-af7a-5180-9951-01c3446e4dae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "5.1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "2019-RK73B1JTTD512JCT-ND")
+				(field
+					(name "Comment") "RES 5.1K OHM 5% 1/10W 0603")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES 5.1K OHM 5% 1_10W 0603")
+				(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "2019-RK73B1JTTD512JCT-ND")
+			)
+			(property
+				(name "Comment")
+				(value "RES 5.1K OHM 5% 1/10W 0603")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "55806168-688f-594d-80f4-1a716f9ea9d0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-071KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-1.0KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-1.0KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW06031K00JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1K_0603_5%")
+				(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-071KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-1.0KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-1.0KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW06031K00JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "7df1b065-e97f-57c0-a244-4c4ff33743e2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "10K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-0710KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-10KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-10KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW060310K0JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20035")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20035")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_10K_0603_5%")
+				(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-0710KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-10KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-10KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW060310K0JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20035")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20035")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "5789d9d8-a0f8-5227-ba76-4fe8b243f3bf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "1K")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Manufacturer 1") "Yageo")
+				(field
+					(name "Manufacturer Part Number 1") "RC0603JR-071KL")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "311-1.0KGRCT-ND")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "541-1.0KGCT-ND")
+				(field
+					(name "Manufacturer 2") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 2") "CRCW06031K00JNEA")
+				(field
+					(name "ComponentLink2URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink2Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink1Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1K_0603_5%")
+				(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "RC0603JR-071KL")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "311-1.0KGRCT-ND")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "541-1.0KGCT-ND")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "CRCW06031K00JNEA")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "e8b06585-cef8-55fa-b05e-baeca82a528f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "1M")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "541-1.0MGCT-ND")
+				(field
+					(name "ComponentLink1URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "Manufacturer 1") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 1") "CRCW06031M00JNEA")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "311-1.0MGRCT-ND")
+				(field
+					(name "ComponentLink2URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink2Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Manufacturer 2") "Yageo")
+				(field
+					(name "Manufacturer Part Number 2") "RC0603JR-071ML")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1M_0603_5%")
+				(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "541-1.0MGCT-ND")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "CRCW06031M00JNEA")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "311-1.0MGRCT-ND")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "RC0603JR-071ML")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "a0613244-02a2-5a71-bc7f-06dcffda58a7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "1M")
+			(footprint "BADGE:RESC1608X55N")
+			(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Altium_Model") "RESC1608X55N")
+				(field
+					(name "Package / Case") "0603 (1608 metric)")
+				(field
+					(name "Ratings") "1/10 W")
+				(field
+					(name "Tolerance") "±5%")
+				(field
+					(name "Material") "Thick Film")
+				(field
+					(name "SCDType") "spec")
+				(field
+					(name "Supplier 1") "Digi-Key")
+				(field
+					(name "Supplier Part Number 1") "541-1.0MGCT-ND")
+				(field
+					(name "ComponentLink1URL") "http://www.vishay.com/doc?20008")
+				(field
+					(name "ComponentLink1Description") "http://www.vishay.com/doc?20008")
+				(field
+					(name "Manufacturer 1") "Vishay Dale")
+				(field
+					(name "Manufacturer Part Number 1") "CRCW06031M00JNEA")
+				(field
+					(name "Supplier 2") "Digi-Key")
+				(field
+					(name "Supplier Part Number 2") "311-1.0MGRCT-ND")
+				(field
+					(name "ComponentLink2URL") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "ComponentLink2Description") "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+				(field
+					(name "Manufacturer 2") "Yageo")
+				(field
+					(name "Manufacturer Part Number 2") "RC0603JR-071ML")
+				(field
+					(name "Comment") "Thick Film")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "RES_1M_0603_5%")
+				(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			)
+			(property
+				(name "Altium_Model")
+				(value "RESC1608X55N")
+			)
+			(property
+				(name "Package / Case")
+				(value "0603 (1608 metric)")
+			)
+			(property
+				(name "Ratings")
+				(value "1/10 W")
+			)
+			(property
+				(name "Tolerance")
+				(value "±5%")
+			)
+			(property
+				(name "Material")
+				(value "Thick Film")
+			)
+			(property
+				(name "SCDType")
+				(value "spec")
+			)
+			(property
+				(name "Supplier 1")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 1")
+				(value "541-1.0MGCT-ND")
+			)
+			(property
+				(name "ComponentLink1URL")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "ComponentLink1Description")
+				(value "http://www.vishay.com/doc?20008")
+			)
+			(property
+				(name "Manufacturer 1")
+				(value "Vishay Dale")
+			)
+			(property
+				(name "Manufacturer Part Number 1")
+				(value "CRCW06031M00JNEA")
+			)
+			(property
+				(name "Supplier 2")
+				(value "Digi-Key")
+			)
+			(property
+				(name "Supplier Part Number 2")
+				(value "311-1.0MGRCT-ND")
+			)
+			(property
+				(name "ComponentLink2URL")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "ComponentLink2Description")
+				(value "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf")
+			)
+			(property
+				(name "Manufacturer 2")
+				(value "Yageo")
+			)
+			(property
+				(name "Manufacturer Part Number 2")
+				(value "RC0603JR-071ML")
+			)
+			(property
+				(name "Comment")
+				(value "Thick Film")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "df9fbfba-4d0f-5689-938f-4c6bf647e5c0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "S1")
+			(value "PTS815_SJM_250_SMTR_LFS")
+			(footprint "BADGE:PTS815SJM250SMTRLFS")
+			(description "Switch")
+			(fields
+				(field
+					(name "Altium_Model") "PTS815SJM250SMTRLFS")
+				(field
+					(name "Datasheet Link") "https://componentsearchengine.com/Datasheets/1/PTS815 SJM 250 SMTR LFS.pdf")
+				(field
+					(name "Height") "2.7mm")
+				(field
+					(name "Manufacturer_Name") "C & K COMPONENTS")
+				(field
+					(name "Manufacturer_Part_Number") "PTS815 SJM 250 SMTR LFS")
+				(field
+					(name "Arrow Part Number") "PTS815 SJM 250 SMTR LFS")
+				(field
+					(name "Arrow Price/Stock") "https://www.arrow.com/en/products/pts815-sjm-250-smtr-lfs/ck")
+				(field
+					(name "Mouser Part Number") "611-PTS815SJM250SMTR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJM-250-SMTR-LFS?qs=ahcBuItHZ3xKWmfV%2F2E6bA%3D%3D")
+				(field
+					(name "Comment") "PTS815_SJM_250_SMTR_LFS")
+				(field
+					(name "Footprint") "BADGE:PTS815SJM250SMTRLFS")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Switch")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "PTS815_SJM_250_SMTR_LFS")
+				(description "Switch")
+			)
+			(property
+				(name "Altium_Model")
+				(value "PTS815SJM250SMTRLFS")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "https://componentsearchengine.com/Datasheets/1/PTS815 SJM 250 SMTR LFS.pdf")
+			)
+			(property
+				(name "Height")
+				(value "2.7mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "C & K COMPONENTS")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "PTS815 SJM 250 SMTR LFS")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "PTS815 SJM 250 SMTR LFS")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "https://www.arrow.com/en/products/pts815-sjm-250-smtr-lfs/ck")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "611-PTS815SJM250SMTR")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJM-250-SMTR-LFS?qs=ahcBuItHZ3xKWmfV%2F2E6bA%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "PTS815_SJM_250_SMTR_LFS")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "2fdd98ec-d32f-5837-a637-afd62f88274c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "PIC12F1840-I_SN")
+			(footprint "BADGE:SOIC127P600X175-8N")
+			(description "Integrated Circuit")
+			(fields
+				(field
+					(name "Altium_Model") "SOIC127P600X175-8N")
+				(field
+					(name "Datasheet Link") "http://ww1.microchip.com/downloads/en/DeviceDoc/40001441F.pdf")
+				(field
+					(name "Height") "1.75mm")
+				(field
+					(name "Manufacturer_Name") "Microchip")
+				(field
+					(name "Manufacturer_Part_Number") "PIC12F1840-I/SN")
+				(field
+					(name "Arrow Part Number") "PIC12F1840-I/SN")
+				(field
+					(name "Arrow Price/Stock") "https://www.arrow.com/en/products/pic12f1840-isn/microchip-technology")
+				(field
+					(name "Mouser Part Number") "579-PIC12F1840-I/SN")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC12F1840-I-SN?qs=gdymDg%2FOn%252BGgQL%2FWyG8YaA%3D%3D")
+				(field
+					(name "Comment") "PIC12F1840-I_SN")
+				(field
+					(name "Footprint") "BADGE:SOIC127P600X175-8N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Integrated Circuit")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "PIC12F1840-I_SN")
+				(description "Integrated Circuit")
+			)
+			(property
+				(name "Altium_Model")
+				(value "SOIC127P600X175-8N")
+			)
+			(property
+				(name "Datasheet Link")
+				(value "http://ww1.microchip.com/downloads/en/DeviceDoc/40001441F.pdf")
+			)
+			(property
+				(name "Height")
+				(value "1.75mm")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Microchip")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "PIC12F1840-I/SN")
+			)
+			(property
+				(name "Arrow Part Number")
+				(value "PIC12F1840-I/SN")
+			)
+			(property
+				(name "Arrow Price/Stock")
+				(value "https://www.arrow.com/en/products/pic12f1840-isn/microchip-technology")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "579-PIC12F1840-I/SN")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC12F1840-I-SN?qs=gdymDg%2FOn%252BGgQL%2FWyG8YaA%3D%3D")
+			)
+			(property
+				(name "Comment")
+				(value "PIC12F1840-I_SN")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "9416ad8d-d424-591c-8434-5f524dbe5ca0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "MCP73831T-2ACI/OT")
+			(footprint "BADGE:SOT-23-5_MC_MCH")
+			(description "No Description Available")
+			(fields
+				(field
+					(name "Altium_Model") "SOT-23-5_MC_MCH")
+				(field
+					(name "Vendor") "Microchip")
+				(field
+					(name "Manufacturer_Part_Number") "MCP73831T-2ACI/OT")
+				(field
+					(name "Built_By") "EMA_UL_Team")
+				(field
+					(name "SourceLibrary") "Microchip_2011-05-13")
+				(field
+					(name "Copyright") "Copyright (C) 2018 Accelerated Designs. All rights reserved")
+				(field
+					(name "RefDes") "RefDes")
+				(field
+					(name "Type") "DEV")
+				(field
+					(name "Comment") "MCP73831T-2ACI/OT")
+				(field
+					(name "Footprint") "BADGE:SOT-23-5_MC_MCH")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "No Description Available")
+			)
+			(libsource
+				(lib "BADGE")
+				(part "MCP73831T-2ACI_O")
+				(description "No Description Available")
+			)
+			(property
+				(name "Altium_Model")
+				(value "SOT-23-5_MC_MCH")
+			)
+			(property
+				(name "Vendor")
+				(value "Microchip")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "MCP73831T-2ACI/OT")
+			)
+			(property
+				(name "Built_By")
+				(value "EMA_UL_Team")
+			)
+			(property
+				(name "SourceLibrary")
+				(value "Microchip_2011-05-13")
+			)
+			(property
+				(name "Copyright")
+				(value "Copyright (C) 2018 Accelerated Designs. All rights reserved")
+			)
+			(property
+				(name "RefDes")
+				(value "RefDes")
+			)
+			(property
+				(name "Type")
+				(value "DEV")
+			)
+			(property
+				(name "Comment")
+				(value "MCP73831T-2ACI/OT")
+			)
+			(property
+				(name "Sheetname")
+				(value "CIRCUIT")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CIRCUIT.kicad_sch")
+			)
+			(sheetpath
+				(names "/CIRCUIT/")
+				(tstamps "/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/")
+			)
+			(tstamps "b00ee4b6-ac1e-552d-b5eb-21d09a566910")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "BADGE")
+			(part "150060GS75000")
+			(description "LED")
+			(fields
+				(field
+					(name "Reference") "L")
+				(field
+					(name "Value") "150060GS75000")
+				(field
+					(name "Footprint") "BADGE:LEDC1608X80N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "150060RS75000")
+			(description "LED")
+			(fields
+				(field
+					(name "Reference") "L")
+				(field
+					(name "Value") "150060RS75000")
+				(field
+					(name "Footprint") "BADGE:LEDC1608X80N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "2N7002NXBKR")
+			(description "MOSFET (N-Channel)")
+			(fields
+				(field
+					(name "Reference") "Q")
+				(field
+					(name "Value") "2N7002NXBKR")
+				(field
+					(name "Footprint") "BADGE:SOT95P230X110-3N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "MOSFET (N-Channel)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "G")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "S")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "D")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "CAPC_100n_0603_X7R_50V_10%")
+			(description "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "CAPC_100n_0603_X7R_50V_10%")
+				(field
+					(name "Footprint") "BADGE:CAPC1608X90N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "CAPC_10u_1206_25V")
+			(description "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "CAPC_10u_1206_25V")
+				(field
+					(name "Footprint") "BADGE:CAPC3216X180N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "CONN JST 2P 2MM_M")
+			(description "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "CONN JST 2P 2MM")
+				(field
+					(name "Footprint") "BADGE:JST-S2B-PH-K-S_V")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "CONN PROG PICKIT3")
+			(description "CONN PROG PICKIT3 6VIAS")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "CONN PROG PICKIT3")
+				(field
+					(name "Footprint") "BADGE:CONN_ICSP")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CONN PROG PICKIT3 6VIAS")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "6")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "MCP73831T-2ACI_O")
+			(description "No Description Available")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "MCP73831T-2ACI/O")
+				(field
+					(name "Footprint") "BADGE:SOT-23-5_MC_MCH")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "No Description Available")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "STAT")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "VSS")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "VBAT")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "VDD")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "PROG")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "NCP114ASN330T1G")
+			(description "Power Supply")
+			(fields
+				(field
+					(name "Reference") "P")
+				(field
+					(name "Value") "NCP114ASN330T1G")
+				(field
+					(name "Footprint") "BADGE:SOT95P275X110-5N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Power Supply")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "IN")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "3")
+					(name "EN")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "N/C")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "OUT")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "PCB")
+			(description "Printed Circuit Board")
+			(fields
+				(field
+					(name "Reference") "P")
+				(field
+					(name "Value") "PCB")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Printed Circuit Board")
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "PIC12F1840-I_SN")
+			(description "Integrated Circuit")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "PIC12F1840-I_SN")
+				(field
+					(name "Footprint") "BADGE:SOIC127P600X175-8N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Integrated Circuit")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "RA5")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "RA4")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "~{MCLR}/VPP/RA3")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "RA2")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "RA1/ICSPCLK")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "RA0/ICSPDAT")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "VSS")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "PTS815_SJM_250_SMTR_LFS")
+			(description "Switch")
+			(fields
+				(field
+					(name "Reference") "S")
+				(field
+					(name "Value") "PTS815_SJM_250_SMTR_LFS")
+				(field
+					(name "Footprint") "BADGE:PTS815SJM250SMTRLFS")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Switch")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "COM_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "COM_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "NO_1")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "NO_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "RES 5.1K OHM 5% 1_10W 0603")
+			(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "RES 5.1K OHM 5% 1/10W 0603")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "RES_10K_0603_5%")
+			(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "RES_10K_0603_5%")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "RES_1K_0603_5%")
+			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "RES_1K_0603_5%")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "RES_1M_0603_5%")
+			(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "RES_1M_0603_5%")
+				(field
+					(name "Footprint") "BADGE:RESC1608X55N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "S1W0-2835408003-0000003S-00005")
+			(description "LED")
+			(fields
+				(field
+					(name "Reference") "L")
+				(field
+					(name "Value") "S1W0-2835408003-0000003S-00005")
+				(field
+					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "LED")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "BADGE")
+			(part "USB4110-GF-A")
+			(description "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "USB4110-GF-A")
+				(field
+					(name "Footprint") "BADGE:GCT_USB4110-GF-A")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
+			)
+			(pins
+				(pin
+					(num "A1/B12")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "A4/B9")
+					(name "VBUS")
+					(type "power_in")
+				)
+				(pin
+					(num "A5")
+					(name "CC1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A6")
+					(name "DP1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A7")
+					(name "DN1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A8")
+					(name "SBU1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B1/A12")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "B4/A9")
+					(name "VBUS")
+					(type "power_in")
+				)
+				(pin
+					(num "B5")
+					(name "CC2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B6")
+					(name "DP2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B7")
+					(name "DN2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B8")
+					(name "SBU2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "S1")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "S2")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "S3")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "S4")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "BADGE")
+			(uri "${KIPRJMOD}/BADGE.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "/CIRCUIT/CC1")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A5")
+				(pinfunction "CC1_A5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R5")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "/CIRCUIT/CC2")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "B5")
+				(pinfunction "CC2_B5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "/CIRCUIT/DN")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A7")
+				(pinfunction "DN1_A7")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J1")
+				(pin "B7")
+				(pinfunction "DN2_B7")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "4")
+			(name "/CIRCUIT/DP")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A6")
+				(pinfunction "DP1_A6")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J1")
+				(pin "B6")
+				(pinfunction "DP2_B6")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "5")
+			(name "/CIRCUIT/ICSPCLK")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "5")
+				(pinfunction "5_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "RA1/ICSPCLK_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "/CIRCUIT/ICSPDAT")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "4")
+				(pinfunction "4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "RA0/ICSPDAT_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "/CIRCUIT/PWM1")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "RA5_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "/CIRCUIT/PWM2")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "RA4_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "/CIRCUIT/RA2")
+			(class "Default")
+			(node
+				(ref "S1")
+				(pin "2")
+				(pinfunction "COM_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "RA2_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "/CIRCUIT/STAT")
+			(class "Default")
+			(node
+				(ref "LED2")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "STAT_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "/CIRCUIT/~{MCLR}")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "~{MCLR}/VPP/RA3_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "A1/B12")
+				(pinfunction "GND_A1/B12")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "B1/A12")
+				(pinfunction "GND_B1/A12")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "S1")
+				(pinfunction "GND_S1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "S2")
+				(pinfunction "GND_S2")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "S3")
+				(pinfunction "GND_S3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "S4")
+				(pinfunction "GND_S4")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J2")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J3")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "PS1")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "power_in")
+			)
+			(node
+				(ref "Q1")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q2")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "S1")
+				(pin "3")
+				(pinfunction "NO_1_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "VSS_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "VSS_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(LED1-A)")
+			(class "Default")
+			(node
+				(ref "LED1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(LED2-A)")
+			(class "Default")
+			(node
+				(ref "LED2")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(LED3-K)")
+			(class "Default")
+			(node
+				(ref "LED3")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q1")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(LED4-K)")
+			(class "Default")
+			(node
+				(ref "LED4")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q2")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "Net-(Q1-G)")
+			(class "Default")
+			(node
+				(ref "Q1")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "Net-(Q2-G)")
+			(class "Default")
+			(node
+				(ref "Q2")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "Net-(U2-PROG)")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "PROG_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "VBAT")
+			(class "Default")
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "PS1")
+				(pin "1")
+				(pinfunction "IN_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PS1")
+				(pin "3")
+				(pinfunction "EN_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "VBAT_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "VCC3V3")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED3")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED4")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "PS1")
+				(pin "5")
+				(pinfunction "OUT_5")
+				(pintype "power_in")
+			)
+			(node
+				(ref "R7")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "22")
+			(name "VCC5V0")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A4/B9")
+				(pinfunction "VBUS_A4/B9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "B4/A9")
+				(pinfunction "VBUS_B4/A9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "VDD_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "unconnected-(J1-SBU1-PadA8)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A8")
+				(pinfunction "SBU1_A8")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "24")
+			(name "unconnected-(J1-SBU2-PadB8)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "B8")
+				(pinfunction "SBU2_B8")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "25")
+			(name "unconnected-(J2-Pad6)")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "6")
+				(pinfunction "6_6")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "26")
+			(name "unconnected-(PS1-N{slash}C-Pad4)")
+			(class "Default")
+			(node
+				(ref "PS1")
+				(pin "4")
+				(pinfunction "N/C_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "unconnected-(S1-COM_1-Pad1)")
+			(class "Default")
+			(node
+				(ref "S1")
+				(pin "1")
+				(pinfunction "COM_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "unconnected-(S1-NO_2-Pad4)")
+			(class "Default")
+			(node
+				(ref "S1")
+				(pin "4")
+				(pinfunction "NO_2_4")
+				(pintype "passive")
+			)
+		)
+	)
+)
