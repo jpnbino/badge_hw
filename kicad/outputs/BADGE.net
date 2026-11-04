@@ -307,7 +307,7 @@
 		(comp
 			(ref "C1")
 			(value "100n")
-			(footprint "BADGE:CAPC1608X90N")
+			(footprint "BADGE-import-fps:CAPC1608X90N")
 			(description "Capacitor SMD Cer 100nF 10% 50V X7R 0603")
 			(fields
 				(field
@@ -349,7 +349,7 @@
 				(field
 					(name "Comment") "approved sub OK")
 				(field
-					(name "Footprint") "BADGE:CAPC1608X90N")
+					(name "Footprint") "BADGE-import-fps:CAPC1608X90N")
 				(field
 					(name "Datasheet")
 				)
@@ -467,7 +467,7 @@
 		(comp
 			(ref "C2")
 			(value "10µ")
-			(footprint "BADGE:CAPC3216X180N")
+			(footprint "BADGE-import-fps:CAPC3216X180N")
 			(description "Capacitor SMD Cer 10uF 10% 25V X7R 1206")
 			(fields
 				(field
@@ -495,7 +495,7 @@
 				(field
 					(name "Comment") "approved sub OK")
 				(field
-					(name "Footprint") "BADGE:CAPC3216X180N")
+					(name "Footprint") "BADGE-import-fps:CAPC3216X180N")
 				(field
 					(name "Datasheet")
 				)
@@ -581,7 +581,7 @@
 		(comp
 			(ref "J1")
 			(value "*")
-			(footprint "BADGE:GCT_USB4110-GF-A")
+			(footprint "BADGE-import-fps:GCT_USB4110-GF-A")
 			(description "USB-C _USB TYPE-C_ USB 2.0 Receptacle Connector 24 _16+8 Dummy_ Position Surface Mount, Right Angle; Through Hole")
 			(fields
 				(field
@@ -601,7 +601,7 @@
 				(field
 					(name "Comment") "USB4110-GF-A")
 				(field
-					(name "Footprint") "BADGE:GCT_USB4110-GF-A")
+					(name "Footprint") "BADGE-import-fps:GCT_USB4110-GF-A")
 				(field
 					(name "Datasheet")
 				)
@@ -717,7 +717,7 @@
 		(comp
 			(ref "J2")
 			(value "=device")
-			(footprint "BADGE:CONN_ICSP")
+			(footprint "BADGE-import-fps:CONN_ICSP")
 			(description "CONN PROG PICKIT3 6VIAS")
 			(fields
 				(field
@@ -729,7 +729,7 @@
 				(field
 					(name "Comment") "=device")
 				(field
-					(name "Footprint") "BADGE:CONN_ICSP")
+					(name "Footprint") "BADGE-import-fps:CONN_ICSP")
 				(field
 					(name "Datasheet")
 				)
@@ -799,7 +799,7 @@
 		(comp
 			(ref "J3")
 			(value "S2B-PH-K-S(LF)(SN)")
-			(footprint "BADGE:JST-S2B-PH-K-S_V")
+			(footprint "BADGE-import-fps:JST-S2B-PH-K-S_V")
 			(description "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk")
 			(fields
 				(field
@@ -853,7 +853,7 @@
 				(field
 					(name "Comment") "S2B-PH-K-S(LF)(SN)")
 				(field
-					(name "Footprint") "BADGE:JST-S2B-PH-K-S_V")
+					(name "Footprint") "BADGE-import-fps:JST-S2B-PH-K-S_V")
 				(field
 					(name "Datasheet")
 				)
@@ -995,7 +995,7 @@
 		(comp
 			(ref "LED1")
 			(value "150060GS75000")
-			(footprint "BADGE:LEDC1608X80N")
+			(footprint "BADGE-import-fps:LEDC1608X80N")
 			(description "LED")
 			(fields
 				(field
@@ -1021,7 +1021,7 @@
 				(field
 					(name "Comment") "150060GS75000")
 				(field
-					(name "Footprint") "BADGE:LEDC1608X80N")
+					(name "Footprint") "BADGE-import-fps:LEDC1608X80N")
 				(field
 					(name "Datasheet")
 				)
@@ -1103,7 +1103,7 @@
 		(comp
 			(ref "LED2")
 			(value "150060RS75000")
-			(footprint "BADGE:LEDC1608X80N")
+			(footprint "BADGE-import-fps:LEDC1608X80N")
 			(description "LED")
 			(fields
 				(field
@@ -1129,7 +1129,7 @@
 				(field
 					(name "Comment") "150060RS75000")
 				(field
-					(name "Footprint") "BADGE:LEDC1608X80N")
+					(name "Footprint") "BADGE-import-fps:LEDC1608X80N")
 				(field
 					(name "Datasheet")
 				)
@@ -1211,11 +1211,11 @@
 		(comp
 			(ref "LED3")
 			(value "S1W0-2835408003-0000003S-00005")
-			(footprint "BADGE:STW8A12DMinJ18CAAll")
+			(footprint "BADGE-import-fps:STW8A12DMINJ18CAALL")
 			(description "LED")
 			(fields
 				(field
-					(name "Altium_Model") "STW8A12DMinJ18CAAll")
+					(name "Altium_Model") "STW8A12DMINJ18CAALL")
 				(field
 					(name "Datasheet Link") "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
 				(field
@@ -1239,7 +1239,7 @@
 				(field
 					(name "Comment") "S1W0-2835408003-0000003S-00005")
 				(field
-					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+					(name "Footprint") "BADGE-import-fps:STW8A12DMINJ18CAALL")
 				(field
 					(name "Datasheet")
 				)
@@ -1253,7 +1253,7 @@
 			)
 			(property
 				(name "Altium_Model")
-				(value "STW8A12DMinJ18CAAll")
+				(value "STW8A12DMINJ18CAALL")
 			)
 			(property
 				(name "Datasheet Link")
@@ -1321,11 +1321,11 @@
 		(comp
 			(ref "LED4")
 			(value "S1W0-2835408003-0000003S-00005")
-			(footprint "BADGE:STW8A12DMinJ18CAAll")
+			(footprint "BADGE-import-fps:STW8A12DMINJ18CAALL")
 			(description "LED")
 			(fields
 				(field
-					(name "Altium_Model") "STW8A12DMinJ18CAAll")
+					(name "Altium_Model") "STW8A12DMINJ18CAALL")
 				(field
 					(name "Datasheet Link") "http://seoulsemicon.com/upload2/STW8A12D_S1.pdf")
 				(field
@@ -1349,7 +1349,7 @@
 				(field
 					(name "Comment") "S1W0-2835408003-0000003S-00005")
 				(field
-					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+					(name "Footprint") "BADGE-import-fps:STW8A12DMINJ18CAALL")
 				(field
 					(name "Datasheet")
 				)
@@ -1363,7 +1363,7 @@
 			)
 			(property
 				(name "Altium_Model")
-				(value "STW8A12DMinJ18CAAll")
+				(value "STW8A12DMINJ18CAALL")
 			)
 			(property
 				(name "Datasheet Link")
@@ -1431,7 +1431,7 @@
 		(comp
 			(ref "PS1")
 			(value "NCP114ASN330T1G")
-			(footprint "BADGE:SOT95P275X110-5N")
+			(footprint "BADGE-import-fps:SOT95P275X110-5N")
 			(description "Power Supply")
 			(fields
 				(field
@@ -1455,7 +1455,7 @@
 				(field
 					(name "Comment") "NCP114ASN330T1G")
 				(field
-					(name "Footprint") "BADGE:SOT95P275X110-5N")
+					(name "Footprint") "BADGE-import-fps:SOT95P275X110-5N")
 				(field
 					(name "Datasheet")
 				)
@@ -1546,7 +1546,7 @@
 		(comp
 			(ref "Q1")
 			(value "2N7002NXBKR")
-			(footprint "BADGE:SOT95P230X110-3N")
+			(footprint "BADGE-import-fps:SOT95P230X110-3N")
 			(description "MOSFET (N-Channel)")
 			(fields
 				(field
@@ -1570,7 +1570,7 @@
 				(field
 					(name "Comment") "2N7002NXBKR")
 				(field
-					(name "Footprint") "BADGE:SOT95P230X110-3N")
+					(name "Footprint") "BADGE-import-fps:SOT95P230X110-3N")
 				(field
 					(name "Datasheet")
 				)
@@ -1655,7 +1655,7 @@
 		(comp
 			(ref "Q2")
 			(value "2N7002NXBKR")
-			(footprint "BADGE:SOT95P230X110-3N")
+			(footprint "BADGE-import-fps:SOT95P230X110-3N")
 			(description "MOSFET (N-Channel)")
 			(fields
 				(field
@@ -1679,7 +1679,7 @@
 				(field
 					(name "Comment") "2N7002NXBKR")
 				(field
-					(name "Footprint") "BADGE:SOT95P230X110-3N")
+					(name "Footprint") "BADGE-import-fps:SOT95P230X110-3N")
 				(field
 					(name "Datasheet")
 				)
@@ -1764,7 +1764,7 @@
 		(comp
 			(ref "R1")
 			(value "1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -1806,7 +1806,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -1924,7 +1924,7 @@
 		(comp
 			(ref "R2")
 			(value "1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -1966,7 +1966,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2084,7 +2084,7 @@
 		(comp
 			(ref "R3")
 			(value "10K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -2126,7 +2126,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2244,7 +2244,7 @@
 		(comp
 			(ref "R4")
 			(value "5.1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
 			(fields
 				(field
@@ -2256,7 +2256,7 @@
 				(field
 					(name "Comment") "RES 5.1K OHM 5% 1/10W 0603")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2314,7 +2314,7 @@
 		(comp
 			(ref "R5")
 			(value "5.1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film")
 			(fields
 				(field
@@ -2326,7 +2326,7 @@
 				(field
 					(name "Comment") "RES 5.1K OHM 5% 1/10W 0603")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2384,7 +2384,7 @@
 		(comp
 			(ref "R6")
 			(value "1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -2426,7 +2426,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2544,7 +2544,7 @@
 		(comp
 			(ref "R7")
 			(value "10K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 10k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -2586,7 +2586,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2704,7 +2704,7 @@
 		(comp
 			(ref "R8")
 			(value "1K")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1k Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -2746,7 +2746,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -2864,7 +2864,7 @@
 		(comp
 			(ref "R9")
 			(value "1M")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -2906,7 +2906,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -3024,7 +3024,7 @@
 		(comp
 			(ref "R10")
 			(value "1M")
-			(footprint "BADGE:RESC1608X55N")
+			(footprint "BADGE-import-fps:RESC1608X55N")
 			(description "Resistor SMD chip 1M Ohm 0.1W 5% 0603")
 			(fields
 				(field
@@ -3066,7 +3066,7 @@
 				(field
 					(name "Comment") "Thick Film")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -3184,7 +3184,7 @@
 		(comp
 			(ref "S1")
 			(value "PTS815_SJM_250_SMTR_LFS")
-			(footprint "BADGE:PTS815SJM250SMTRLFS")
+			(footprint "BADGE-import-fps:PTS815SJM250SMTRLFS")
 			(description "Switch")
 			(fields
 				(field
@@ -3208,7 +3208,7 @@
 				(field
 					(name "Comment") "PTS815_SJM_250_SMTR_LFS")
 				(field
-					(name "Footprint") "BADGE:PTS815SJM250SMTRLFS")
+					(name "Footprint") "BADGE-import-fps:PTS815SJM250SMTRLFS")
 				(field
 					(name "Datasheet")
 				)
@@ -3296,7 +3296,7 @@
 		(comp
 			(ref "U1")
 			(value "PIC12F1840-I_SN")
-			(footprint "BADGE:SOIC127P600X175-8N")
+			(footprint "BADGE-import-fps:SOIC127P600X175-8N")
 			(description "Integrated Circuit")
 			(fields
 				(field
@@ -3320,7 +3320,7 @@
 				(field
 					(name "Comment") "PIC12F1840-I_SN")
 				(field
-					(name "Footprint") "BADGE:SOIC127P600X175-8N")
+					(name "Footprint") "BADGE-import-fps:SOIC127P600X175-8N")
 				(field
 					(name "Datasheet")
 				)
@@ -3420,7 +3420,7 @@
 		(comp
 			(ref "U2")
 			(value "MCP73831T-2ACI/OT")
-			(footprint "BADGE:SOT-23-5_MC_MCH")
+			(footprint "BADGE-import-fps:SOT-23-5_MC_MCH")
 			(description "No Description Available")
 			(fields
 				(field
@@ -3442,7 +3442,7 @@
 				(field
 					(name "Comment") "MCP73831T-2ACI/OT")
 				(field
-					(name "Footprint") "BADGE:SOT-23-5_MC_MCH")
+					(name "Footprint") "BADGE-import-fps:SOT-23-5_MC_MCH")
 				(field
 					(name "Datasheet")
 				)
@@ -3540,7 +3540,7 @@
 				(field
 					(name "Value") "150060GS75000")
 				(field
-					(name "Footprint") "BADGE:LEDC1608X80N")
+					(name "Footprint") "BADGE-import-fps:LEDC1608X80N")
 				(field
 					(name "Datasheet")
 				)
@@ -3570,7 +3570,7 @@
 				(field
 					(name "Value") "150060RS75000")
 				(field
-					(name "Footprint") "BADGE:LEDC1608X80N")
+					(name "Footprint") "BADGE-import-fps:LEDC1608X80N")
 				(field
 					(name "Datasheet")
 				)
@@ -3600,7 +3600,7 @@
 				(field
 					(name "Value") "2N7002NXBKR")
 				(field
-					(name "Footprint") "BADGE:SOT95P230X110-3N")
+					(name "Footprint") "BADGE-import-fps:SOT95P230X110-3N")
 				(field
 					(name "Datasheet")
 				)
@@ -3635,7 +3635,7 @@
 				(field
 					(name "Value") "CAPC_100n_0603_X7R_50V_10%")
 				(field
-					(name "Footprint") "BADGE:CAPC1608X90N")
+					(name "Footprint") "BADGE-import-fps:CAPC1608X90N")
 				(field
 					(name "Datasheet")
 				)
@@ -3665,7 +3665,7 @@
 				(field
 					(name "Value") "CAPC_10u_1206_25V")
 				(field
-					(name "Footprint") "BADGE:CAPC3216X180N")
+					(name "Footprint") "BADGE-import-fps:CAPC3216X180N")
 				(field
 					(name "Datasheet")
 				)
@@ -3695,7 +3695,7 @@
 				(field
 					(name "Value") "CONN JST 2P 2MM")
 				(field
-					(name "Footprint") "BADGE:JST-S2B-PH-K-S_V")
+					(name "Footprint") "BADGE-import-fps:JST-S2B-PH-K-S_V")
 				(field
 					(name "Datasheet")
 				)
@@ -3725,7 +3725,7 @@
 				(field
 					(name "Value") "CONN PROG PICKIT3")
 				(field
-					(name "Footprint") "BADGE:CONN_ICSP")
+					(name "Footprint") "BADGE-import-fps:CONN_ICSP")
 				(field
 					(name "Datasheet")
 				)
@@ -3775,7 +3775,7 @@
 				(field
 					(name "Value") "MCP73831T-2ACI/O")
 				(field
-					(name "Footprint") "BADGE:SOT-23-5_MC_MCH")
+					(name "Footprint") "BADGE-import-fps:SOT-23-5_MC_MCH")
 				(field
 					(name "Datasheet")
 				)
@@ -3820,7 +3820,7 @@
 				(field
 					(name "Value") "NCP114ASN330T1G")
 				(field
-					(name "Footprint") "BADGE:SOT95P275X110-5N")
+					(name "Footprint") "BADGE-import-fps:SOT95P275X110-5N")
 				(field
 					(name "Datasheet")
 				)
@@ -3884,7 +3884,7 @@
 				(field
 					(name "Value") "PIC12F1840-I_SN")
 				(field
-					(name "Footprint") "BADGE:SOIC127P600X175-8N")
+					(name "Footprint") "BADGE-import-fps:SOIC127P600X175-8N")
 				(field
 					(name "Datasheet")
 				)
@@ -3944,7 +3944,7 @@
 				(field
 					(name "Value") "PTS815_SJM_250_SMTR_LFS")
 				(field
-					(name "Footprint") "BADGE:PTS815SJM250SMTRLFS")
+					(name "Footprint") "BADGE-import-fps:PTS815SJM250SMTRLFS")
 				(field
 					(name "Datasheet")
 				)
@@ -3984,7 +3984,7 @@
 				(field
 					(name "Value") "RES 5.1K OHM 5% 1/10W 0603")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -4014,7 +4014,7 @@
 				(field
 					(name "Value") "RES_10K_0603_5%")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -4044,7 +4044,7 @@
 				(field
 					(name "Value") "RES_1K_0603_5%")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -4074,7 +4074,7 @@
 				(field
 					(name "Value") "RES_1M_0603_5%")
 				(field
-					(name "Footprint") "BADGE:RESC1608X55N")
+					(name "Footprint") "BADGE-import-fps:RESC1608X55N")
 				(field
 					(name "Datasheet")
 				)
@@ -4104,7 +4104,7 @@
 				(field
 					(name "Value") "S1W0-2835408003-0000003S-00005")
 				(field
-					(name "Footprint") "BADGE:STW8A12DMinJ18CAAll")
+					(name "Footprint") "BADGE-import-fps:STW8A12DMINJ18CAALL")
 				(field
 					(name "Datasheet")
 				)
@@ -4134,7 +4134,7 @@
 				(field
 					(name "Value") "USB4110-GF-A")
 				(field
-					(name "Footprint") "BADGE:GCT_USB4110-GF-A")
+					(name "Footprint") "BADGE-import-fps:GCT_USB4110-GF-A")
 				(field
 					(name "Datasheet")
 				)

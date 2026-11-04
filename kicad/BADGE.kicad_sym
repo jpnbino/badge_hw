@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:LEDC1608X80N"
+		(property "Footprint" "BADGE-import-fps:LEDC1608X80N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -297,7 +297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:LEDC1608X80N"
+		(property "Footprint" "BADGE-import-fps:LEDC1608X80N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -566,7 +566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:SOT95P230X110-3N"
+		(property "Footprint" "BADGE-import-fps:SOT95P230X110-3N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -852,7 +852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:CAPC1608X90N"
+		(property "Footprint" "BADGE-import-fps:CAPC1608X90N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1001,7 +1001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:CAPC3216X180N"
+		(property "Footprint" "BADGE-import-fps:CAPC3216X180N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1150,7 +1150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:JST-S2B-PH-K-S_V"
+		(property "Footprint" "BADGE-import-fps:JST-S2B-PH-K-S_V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1262,7 +1262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:CONN_ICSP"
+		(property "Footprint" "BADGE-import-fps:CONN_ICSP"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1749,7 +1749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:SOT-23-5_MC_MCH"
+		(property "Footprint" "BADGE-import-fps:SOT-23-5_MC_MCH"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1915,7 +1915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:SOT95P275X110-5N"
+		(property "Footprint" "BADGE-import-fps:SOT95P275X110-5N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2165,7 +2165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:SOIC127P600X175-8N"
+		(property "Footprint" "BADGE-import-fps:SOIC127P600X175-8N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2385,7 +2385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:PTS815SJM250SMTRLFS"
+		(property "Footprint" "BADGE-import-fps:PTS815SJM250SMTRLFS"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2985,7 +2985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:RESC1608X55N"
+		(property "Footprint" "BADGE-import-fps:RESC1608X55N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3097,7 +3097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:RESC1608X55N"
+		(property "Footprint" "BADGE-import-fps:RESC1608X55N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3209,7 +3209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:RESC1608X55N"
+		(property "Footprint" "BADGE-import-fps:RESC1608X55N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3321,7 +3321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:RESC1608X55N"
+		(property "Footprint" "BADGE-import-fps:RESC1608X55N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3433,7 +3433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:STW8A12DMinJ18CAAll"
+		(property "Footprint" "BADGE-import-fps:STW8A12DMINJ18CAALL"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3702,7 +3702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BADGE:GCT_USB4110-GF-A"
+		(property "Footprint" "BADGE-import-fps:GCT_USB4110-GF-A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

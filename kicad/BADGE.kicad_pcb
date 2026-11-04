@@ -2163,7 +2163,7 @@
 			)
 		)
 	)
-	(footprint "BADGE-import-fps:STW8A12DMinJ18CAAll"
+	(footprint "BADGE-import-fps:STW8A12DMINJ18CAALL"
 		(layer "F.Cu")
 		(uuid "43512013-053b-4dd2-b046-c75d8ba918f2")
 		(at 155.5011 93.0036)

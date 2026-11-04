@@ -2775,7 +2775,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "*STW8A12DMinJ18CAAll*"
+			(property "ki_fp_filters" "*STW8A12DMINJ18CAALL*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -23801,7 +23801,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "BADGE-import-fps:STW8A12DMinJ18CAAll"
+		(property "Footprint" "BADGE-import-fps:STW8A12DMINJ18CAALL"
 			(at 304.8 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -26903,7 +26903,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "BADGE-import-fps:STW8A12DMinJ18CAAll"
+		(property "Footprint" "BADGE-import-fps:STW8A12DMINJ18CAALL"
 			(at 262.89 224.79 0)
 			(hide yes)
 			(show_name no)
