@@ -1,0 +1,139 @@
+** Drc report for BADGE.kicad_pcb **
+** Created on 2026-11-04T20:34:03 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 26 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0750 mm)
+    Rule: board setup constraints; error
+    @(136.2511 mm, 122.8036 mm): Via [GND] on Top Layer - Bottom Layer
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
+    Rule: board setup constraints; error
+    @(136.5011 mm, 112.5036 mm): PTH pad 10 [<no net>] of 
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
+    Rule: board setup constraints; error
+    @(136.5011 mm, 89.0036 mm): PTH pad 10 [<no net>] of 
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
+    Rule: board setup constraints; error
+    @(160.5011 mm, 89.0036 mm): PTH pad 10 [<no net>] of 
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
+    Rule: board setup constraints; error
+    @(160.5011 mm, 112.5036 mm): PTH pad 10 [<no net>] of 
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(133.5011 mm, 111.3036 mm): Zone [VBAT] on Top Layer, priority 0
+    @(141.4511 mm, 111.2990 mm): Pad 3 [VBAT] of U2 on Top Layer
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(133.5011 mm, 111.3036 mm): Zone [VBAT] on Top Layer, priority 0
+    @(155.5511 mm, 110.9536 mm): Pad 1 [VBAT] of PS1 on Top Layer
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(133.5011 mm, 86.0036 mm): Zone [VCC3V3] on Top Layer, priority 2
+    @(144.6911 mm, 111.3036 mm): PTH pad 1 [VCC3V3] of 
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(133.5011 mm, 111.3036 mm): Zone [VBAT] on Top Layer, priority 0
+    @(157.4511 mm, 110.9536 mm): Pad 3 [VBAT] of PS1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(155.1511 mm, 116.4286 mm): Pad B4/A9 [VCC5V0] of J1 on Top Layer
+    @(155.9511 mm, 116.4286 mm): Pad B1/A12 [GND] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(155.1511 mm, 116.4286 mm): Pad B4/A9 [VCC5V0] of J1 on Top Layer
+    @(154.5011 mm, 116.4286 mm): Pad B5 [/CIRCUIT/CC2] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(154.5011 mm, 116.4286 mm): Pad B5 [/CIRCUIT/CC2] of J1 on Top Layer
+    @(154.0011 mm, 116.4286 mm): Pad A8 [<no net>] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(153.5011 mm, 116.4286 mm): Pad B6 [/CIRCUIT/DP] of J1 on Top Layer
+    @(153.0011 mm, 116.4286 mm): Pad A7 [/CIRCUIT/DN] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(153.5011 mm, 116.4286 mm): Pad B6 [/CIRCUIT/DP] of J1 on Top Layer
+    @(154.0011 mm, 116.4286 mm): Pad A8 [<no net>] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(152.0011 mm, 116.4286 mm): Pad B7 [/CIRCUIT/DN] of J1 on Top Layer
+    @(152.5011 mm, 116.4286 mm): Pad A6 [/CIRCUIT/DP] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(152.0011 mm, 116.4286 mm): Pad B7 [/CIRCUIT/DN] of J1 on Top Layer
+    @(151.5011 mm, 116.4286 mm): Pad A5 [/CIRCUIT/CC1] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.0011 mm, 116.4286 mm): Pad B8 [<no net>] of J1 on Top Layer
+    @(150.3511 mm, 116.4286 mm): Pad A4/B9 [VCC5V0] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.0011 mm, 116.4286 mm): Pad B8 [<no net>] of J1 on Top Layer
+    @(151.5011 mm, 116.4286 mm): Pad A5 [/CIRCUIT/CC1] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.8611 mm, 117.5036 mm): NPTH pad of J1
+    @(149.5511 mm, 116.4286 mm): Pad A1/B12 [GND] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(155.6411 mm, 117.5036 mm): NPTH pad of J1
+    @(155.9511 mm, 116.4286 mm): Pad B1/A12 [GND] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.5511 mm, 116.4286 mm): Pad A1/B12 [GND] of J1 on Top Layer
+    @(150.3511 mm, 116.4286 mm): Pad A4/B9 [VCC5V0] of J1 on Top Layer
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(152.5011 mm, 116.4286 mm): Pad A6 [/CIRCUIT/DP] of J1 on Top Layer
+    @(153.0011 mm, 116.4286 mm): Pad A7 [/CIRCUIT/DN] of J1 on Top Layer
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(136.5011 mm, 112.5036 mm): PTH pad 10 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(136.5011 mm, 89.0036 mm): PTH pad 10 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(160.5011 mm, 89.0036 mm): PTH pad 10 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(160.5011 mm, 112.5036 mm): PTH pad 10 [<no net>] of 
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.5011 mm, 111.3036 mm): Zone [VBAT] on Top Layer, priority 0
+    @(141.4511 mm, 111.2990 mm): Pad 3 [VBAT] of U2 on Top Layer
+
+** Found 6 Footprint errors **
+[net_conflict]: Pad missing net given by schematic (unconnected-(J1-SBU1-PadA8))
+    Local override; warning
+    @(154.0011 mm, 116.4286 mm): Pad A8 [<no net>] of J1 on Top Layer
+[net_conflict]: Pad missing net given by schematic (unconnected-(J1-SBU2-PadB8))
+    Local override; warning
+    @(151.0011 mm, 116.4286 mm): Pad B8 [<no net>] of J1 on Top Layer
+[net_conflict]: Pad missing net given by schematic (unconnected-(J2-Pad6))
+    Local override; warning
+    @(154.8711 mm, 87.5536 mm): PTH pad 6 [<no net>] of J2
+[net_conflict]: Pad missing net given by schematic (unconnected-(PS1-N{slash}C-Pad4))
+    Local override; warning
+    @(157.4511 mm, 108.4536 mm): Pad 4 [<no net>] of PS1 on Top Layer
+[net_conflict]: Pad missing net given by schematic (unconnected-(S1-COM_1-Pad1))
+    Local override; warning
+    @(160.1261 mm, 121.1736 mm): Pad 1 [<no net>] of S1 on Top Layer
+[net_conflict]: Pad missing net given by schematic (unconnected-(S1-NO_2-Pad4))
+    Local override; warning
+    @(162.2761 mm, 116.6736 mm): Pad 4 [<no net>] of S1 on Top Layer
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint field does not match symbol field
+    - Footprint doesn't match symbol's footprint filters
+    - Silkscreen clearance
+    - Silkscreen clipped by solder mask
+    - Footprint component type doesn't match footprint pads
+    - Footprint doesn't match copy in library
+
+** End of Report **
