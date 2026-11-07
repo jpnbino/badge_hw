@@ -1,0 +1,106 @@
+{
+ "C1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/73393adf-94bb-5813-a2ad-843759b2ab67",
+  "value": "100n"
+ },
+ "C2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/b90c0b45-6b20-5236-8f1b-abc68afa8abc",
+  "value": "10\u00b5"
+ },
+ "J1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/9273109a-9363-5245-b10c-44be7347f628",
+  "value": "*"
+ },
+ "J2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/292b2281-4ba5-5922-938c-feef0cea5215",
+  "value": "=device"
+ },
+ "J3": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/5ab41ce4-93cc-561b-80b5-7ba4500ea5d2",
+  "value": "S2B-PH-K-S(LF)(SN)"
+ },
+ "LED1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/0eec2264-7cfa-54ad-b4a3-0edff217716b",
+  "value": "150060GS75000"
+ },
+ "LED2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/9e0d1bb0-915d-5062-8747-dfe36ee46c57",
+  "value": "150060RS75000"
+ },
+ "LED3": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/86515bca-5c4c-5a24-b300-2376968f4289",
+  "value": "S1W0-2835408003-0000003S-00005"
+ },
+ "LED4": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/bdc1f878-5414-505e-bd88-5312dfdbab49",
+  "value": "S1W0-2835408003-0000003S-00005"
+ },
+ "PCB1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/182b56ce-f134-57db-8631-54c0c948eee5/b1374cc0-7b38-5a72-a740-134d70e11b61",
+  "value": "Give_The_PCB_a_NAME"
+ },
+ "PS1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/0498886c-5b92-530a-88b2-6ea88f6cf264",
+  "value": "NCP114ASN330T1G"
+ },
+ "Q1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/38e8193a-ecca-543d-a333-2dcb824d3861",
+  "value": "2N7002NXBKR"
+ },
+ "Q2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/530a5b78-4c80-5919-88ac-7d8c299dc036",
+  "value": "2N7002NXBKR"
+ },
+ "R1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/b9deb442-61e8-54e4-ab0c-d321c780e788",
+  "value": "1K"
+ },
+ "R10": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/df9fbfba-4d0f-5689-938f-4c6bf647e5c0",
+  "value": "1M"
+ },
+ "R2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/554cce02-b279-58bf-bc1d-d26555f700fb",
+  "value": "1K"
+ },
+ "R3": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/c37765e8-fa14-59e8-b313-5fb7bc0766b9",
+  "value": "10K"
+ },
+ "R4": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/98e2083c-af7a-5180-9951-01c3446e4dae",
+  "value": "RES 5.1K OHM 5% 1/10W 0603"
+ },
+ "R5": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/55806168-688f-594d-80f4-1a716f9ea9d0",
+  "value": "RES 5.1K OHM 5% 1/10W 0603"
+ },
+ "R6": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/7df1b065-e97f-57c0-a244-4c4ff33743e2",
+  "value": "1K"
+ },
+ "R7": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/5789d9d8-a0f8-5227-ba76-4fe8b243f3bf",
+  "value": "10K"
+ },
+ "R8": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/e8b06585-cef8-55fa-b05e-baeca82a528f",
+  "value": "1K"
+ },
+ "R9": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/a0613244-02a2-5a71-bc7f-06dcffda58a7",
+  "value": "1M"
+ },
+ "S1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/2fdd98ec-d32f-5837-a637-afd62f88274c",
+  "value": "PTS815_SJM_250_SMTR_LFS"
+ },
+ "U1": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/9416ad8d-d424-591c-8434-5f524dbe5ca0",
+  "value": "PIC12F1840-I_SN"
+ },
+ "U2": {
+  "path": "/40b9f920-bac5-5764-8648-b14e669abaf3/4e6635bf-f3be-52a1-b1ee-b79f6cec3685/b00ee4b6-ac1e-552d-b5eb-21d09a566910",
+  "value": "MCP73831T-2ACI/OT"
+ }
+}
